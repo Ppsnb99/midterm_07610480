@@ -43,10 +43,10 @@ class HomePage extends StatelessWidget {
             children: [
               Container(height: 50.0,),
               Text('PIG WIGHT',
-                style: TextStyle(fontSize: 50.0, color: Colors.pink,) ,
+                style: TextStyle(fontSize: 50.0, color: Colors.blue,) ,
               ),
               Text("CALCULATOR",
-                style: TextStyle(fontSize: 30.0, color: Colors.pink,) ,
+                style: TextStyle(fontSize: 30.0, color: Colors.blue,) ,
               ),
               Container(height: 30.0,),
               Image.asset('assets/images/pig.png',width: 350.0,),
