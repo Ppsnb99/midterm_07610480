@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
 
             mainAxisSize: MainAxisSize.max,
             children: [
-              Container(height: 50.0,),
+              Container(height: 60.0,),
               Text('PIG WIGHT',
                 style: TextStyle(fontSize: 50.0, color: Colors.blue,) ,
               ),
